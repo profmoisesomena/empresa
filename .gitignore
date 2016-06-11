@@ -1,5 +1,12 @@
 *.pyc
 __pycache__
+<<<<<<< HEAD
 db.sqlite3
 .DS_Store
 mysqlclient-1.3.7-cp34-none-win_amd64
+=======
+webpage
+db.sqlite3
+.DS_Store
+mysqlclient-1.3.7-cp34-none-win_amd64.whl
+>>>>>>> 6379c6184892de37ef80568f1903429f809e179e
